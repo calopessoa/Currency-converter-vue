@@ -1,24 +1,12 @@
-# currencies-converter
+# Currencies-converter
 
-## Project setup
+## Purpose
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+To practice the basics concepts (v-model, v-for, v-on, componentization in VueJs) of Vue usage.
 ```
 
-### Compiles and minifies for production
+### What's applied
 ```
-npm run build
+- directives : v-model (interconnecting data from input and textarea from forms); v-on and v-for
+- components : practicing the importing and usage of components;
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
